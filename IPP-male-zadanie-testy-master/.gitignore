@@ -1,0 +1,13 @@
+*
+
+!*.in
+!*.out
+!*.err
+
+!.gitignore
+!makefile
+!src
+!src/*
+
+*.generated.in
+bin/*
