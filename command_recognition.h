@@ -14,7 +14,6 @@ int recognize_command(my_string *);
 // 0 if not, 1 otherwise
 int is_legal_quant_history(my_string *);
 
-// 
 uint64_t is_legal_energy_number(my_string *);
 
 #endif
